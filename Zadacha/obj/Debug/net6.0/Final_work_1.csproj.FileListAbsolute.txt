@@ -1,0 +1,15 @@
+C:\ГикБрейнс\Final_work_1\bin\Debug\net6.0\Final_work_1.exe
+C:\ГикБрейнс\Final_work_1\bin\Debug\net6.0\Final_work_1.deps.json
+C:\ГикБрейнс\Final_work_1\bin\Debug\net6.0\Final_work_1.runtimeconfig.json
+C:\ГикБрейнс\Final_work_1\bin\Debug\net6.0\Final_work_1.dll
+C:\ГикБрейнс\Final_work_1\bin\Debug\net6.0\Final_work_1.pdb
+C:\ГикБрейнс\Final_work_1\obj\Debug\net6.0\Final_work_1.csproj.AssemblyReference.cache
+C:\ГикБрейнс\Final_work_1\obj\Debug\net6.0\Final_work_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ГикБрейнс\Final_work_1\obj\Debug\net6.0\Final_work_1.AssemblyInfoInputs.cache
+C:\ГикБрейнс\Final_work_1\obj\Debug\net6.0\Final_work_1.AssemblyInfo.cs
+C:\ГикБрейнс\Final_work_1\obj\Debug\net6.0\Final_work_1.csproj.CoreCompileInputs.cache
+C:\ГикБрейнс\Final_work_1\obj\Debug\net6.0\Final_work_1.dll
+C:\ГикБрейнс\Final_work_1\obj\Debug\net6.0\refint\Final_work_1.dll
+C:\ГикБрейнс\Final_work_1\obj\Debug\net6.0\Final_work_1.pdb
+C:\ГикБрейнс\Final_work_1\obj\Debug\net6.0\Final_work_1.genruntimeconfig.cache
+C:\ГикБрейнс\Final_work_1\obj\Debug\net6.0\ref\Final_work_1.dll
